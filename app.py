@@ -7,8 +7,9 @@ import xml.etree.ElementTree as ET
 
 app = Flask(__name__)
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+BOT_TOKEN = os.getenv("8886453715:AAHfPCYXiqxpd5ihl0Q96avUBg0IxQk68I4
+")
+CHAT_ID = os.getenv("7482756007")
 
 sent_links = set()
 
